@@ -1,6 +1,6 @@
 # <div align="center"> Compte Rendu Activité Pratique 1 </div>
 
-**<div align="center"> Développement d'un Web service SOAP, WSDL avec JAWRS </div>**
+**<div align="center"> Développement d'un Web service SOAP, WSDL avec JAXWS </div>**
 
 ## Énoncé
 
